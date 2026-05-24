@@ -2,6 +2,8 @@
 ✨I am Aakanksha Rathee 👀, a final-year student at NSUT,Delhi pursuing electrical engineering <br>
 🧠 I love to code and explore new technologies <br>
 🔭 I’m currently learning system design to make scalable real-world projects <br>
+📚 Core CS Subjects:<br>
+Data Structures and Algorithms (max rating: 1840 on LeetCode), Object-Oriented Programming (OOPs), Operating Systems (OS), Database Management Systems (DBMS), Machine Learning (ML), System Design
 💻 My Tech Stack: <br>
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"width="45" height="45" />
