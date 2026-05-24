@@ -1,8 +1,8 @@
-## Hi there 👋
-I am Aakanksha Rathee 👀, a final-year student at NSUT,Delhi pursuing electrical engineering
-🧠 I love to code and explore new technologies
-🔭 I’m currently learning system design to make scalable real-world projects 
-💻 My Tech Stack:
+## Hi there 👋 <br>
+I am Aakanksha Rathee 👀, a final-year student at NSUT,Delhi pursuing electrical engineering <br>
+🧠 I love to code and explore new technologies <br>
+🔭 I’m currently learning system design to make scalable real-world projects <br>
+💻 My Tech Stack: <br>
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"width="45" height="45" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" />
@@ -10,8 +10,9 @@ I am Aakanksha Rathee 👀, a final-year student at NSUT,Delhi pursuing electric
             <i class="devicon-tailwindcss-original colored"  width="45" height="45"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="45" height="45" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
-            <i class="devicon-git-plain colored" width="45" height="45"></i> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45"/>
+            <i class="devicon-git-plain colored" width="45" height="45"></i>
+            <i class="devicon-github-original" width="45" height="45"></i>
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"  width="45" height="45"/>
